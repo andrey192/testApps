@@ -1,0 +1,26 @@
+[
+    {
+        "term": "key1",
+        "definition": "translate key1"
+    },
+    {
+        "term": "key2",
+        "definition": "translate key2"
+    },
+	    {
+        "term": "key3",
+        "definition": "translate key3"
+    },
+	    {
+        "term": "key4",
+        "definition": "translate key4"
+    },
+	    {
+        "term": "key5",
+        "definition": "translate key5"
+    },
+	    {
+        "term": "key6",
+        "definition": "translate key6"
+    }
+]
